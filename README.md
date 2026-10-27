@@ -26,4 +26,4 @@ I work at the intersection of **statistics, machine learning and finance**: time
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/aleksandra-szczurek) · Open to Data Scientist, Data Analyst and Quantitative Analyst roles.
+[LinkedIn](https://www.linkedin.com/in/aleksandra-szczurek) · ✉️ aleksandraszczurek12@gmail.com · Open to Data Scientist, Data Analyst and Quantitative Analyst roles.
