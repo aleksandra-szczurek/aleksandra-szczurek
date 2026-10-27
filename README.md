@@ -14,6 +14,7 @@ I work at the intersection of **statistics, machine learning and finance**: time
 | [GMM Clustering – Wine Dataset](https://github.com/aleksandra-szczurek/gmm-clustering-wine) | Unsupervised learning, EM algorithm from scratch, 96.6% accuracy |
 | [Bayesian Regression & Model Selection](https://github.com/aleksandra-szczurek/bayesian-regression-model-selection-crypto) | Conjugate Bayesian regression, AIC/BIC and Bayes Factors |
 | [Metropolis-Hastings for Logistic Regression](https://github.com/aleksandra-szczurek/metropolis-hastings-logistic-regression) | MCMC implemented from scratch, tuning and convergence diagnostics |
+| [Phillips Curve & the Volcker Break](https://github.com/aleksandra-szczurek/phillips-curve-econometrics) | Econometrics: dynamic regression, structural-break test, diagnostics and scenario forecasts |
 | [Monte Carlo & Statistical Computing](https://github.com/aleksandra-szczurek/monte-carlo-statistical-computing) | Simulation, importance sampling, numerical optimisation, bootstrap |
 
 ## 🛠️ Tools
