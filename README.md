@@ -9,6 +9,7 @@ I work at the intersection of **statistics, machine learning and finance**: time
 | Project | What it shows |
 |---|---|
 | [Bayesian vs Frequentist Neural Networks](https://github.com/aleksandra-szczurek/bayesian-vs-frequentist-neural-networks) | MSc thesis – deep learning for temperature forecasting with calibrated uncertainty (Stan, HMC/NUTS) |
+| [MC Dropout vs Bayesian NN – PyTorch](https://github.com/aleksandra-szczurek/bayesian-vs-mc-dropout-pytorch) | Python/PyTorch replication of the thesis: MC dropout uncertainty vs a full Bayesian network, accuracy and 90% interval calibration |
 | [Bayesian Stochastic Volatility: Crypto & VIX](https://github.com/aleksandra-szczurek/bayesian-stochastic-volatility-crypto-vix) | Do cryptocurrencies predict market volatility? Bayesian SV model in Stan |
 | [Market Regimes with a Latent Markov Model](https://github.com/aleksandra-szczurek/market-regimes-latent-markov-model) | Hidden regimes across Bitcoin, Ethereum, gold and the VIX |
 | [GMM Clustering – Wine Dataset](https://github.com/aleksandra-szczurek/gmm-clustering-wine) | Unsupervised learning, EM algorithm from scratch, 96.6% accuracy |
@@ -22,7 +23,8 @@ I work at the intersection of **statistics, machine learning and finance**: time
 
 **Languages:** R · Python  
 **Methods:** Machine learning · Deep learning · Bayesian statistics · MCMC · Time series · Clustering · Regression  
-**R packages:** Stan (rstan, bnns) · nnet · mclust · LMest · ggplot2
+**R packages:** Stan (rstan, bnns) · nnet · mclust · LMest · ggplot2  
+**Python:** PyTorch · NumPy · pandas · statsmodels · matplotlib
 
 ## 📫 Contact
 
