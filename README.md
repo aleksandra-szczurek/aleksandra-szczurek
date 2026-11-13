@@ -10,6 +10,7 @@ I work at the intersection of **statistics, machine learning and finance**: time
 |---|---|
 | [Bayesian vs Frequentist Neural Networks](https://github.com/aleksandra-szczurek/bayesian-vs-frequentist-neural-networks) | MSc thesis – deep learning for temperature forecasting with calibrated uncertainty (Stan, HMC/NUTS) |
 | [MC Dropout vs Bayesian NN – PyTorch](https://github.com/aleksandra-szczurek/bayesian-vs-mc-dropout-pytorch) | Python/PyTorch replication of the thesis: MC dropout uncertainty vs a full Bayesian network, accuracy and 90% interval calibration |
+| [Card Fraud Detection – SQL & scikit-learn](https://github.com/aleksandra-szczurek/fraud-detection-sql) | 285k card payments in SQLite: SQL analysis with CTEs and window functions, imbalanced classification and cost-based alert thresholds |
 | [Bayesian Stochastic Volatility: Crypto & VIX](https://github.com/aleksandra-szczurek/bayesian-stochastic-volatility-crypto-vix) | Do cryptocurrencies predict market volatility? Bayesian SV model in Stan |
 | [Market Regimes with a Latent Markov Model](https://github.com/aleksandra-szczurek/market-regimes-latent-markov-model) | Hidden regimes across Bitcoin, Ethereum, gold and the VIX |
 | [GMM Clustering – Wine Dataset](https://github.com/aleksandra-szczurek/gmm-clustering-wine) | Unsupervised learning, EM algorithm from scratch, 96.6% accuracy |
@@ -21,10 +22,10 @@ I work at the intersection of **statistics, machine learning and finance**: time
 
 ## 🛠️ Tools
 
-**Languages:** R · Python  
+**Languages:** R · Python · SQL  
 **Methods:** Machine learning · Deep learning · Bayesian statistics · MCMC · Time series · Clustering · Regression  
 **R packages:** Stan (rstan, bnns) · nnet · mclust · LMest · ggplot2  
-**Python:** PyTorch · NumPy · pandas · statsmodels · matplotlib
+**Python:** PyTorch · scikit-learn · NumPy · pandas · statsmodels · matplotlib
 
 ## 📫 Contact
 
